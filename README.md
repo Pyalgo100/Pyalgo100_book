@@ -24,4 +24,4 @@
 
   **ISBN**  979-11-88786-95-4.pdf
   
-  <img width="596" alt="앞표지 (2)" src="https://github.com/Pyalgo100/Pyalgo100_book/assets/128216954/6b469896-d9d8-4ae2-9776-2f87c9a39e08">
+  <img width="596" src="https://github.com/Pyalgo100/Pyalgo100_book/assets/128216954/6b469896-d9d8-4ae2-9776-2f87c9a39e08">
